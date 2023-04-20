@@ -40,4 +40,8 @@ h1 {
 	float: left;
 	margin-right: 1em;
 }
+.box{
+    overflow: auto;
+    /*zastaví přetečení obrázku */ 
+ }
 

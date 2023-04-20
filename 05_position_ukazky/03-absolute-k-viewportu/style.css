@@ -1,6 +1,13 @@
 
 .absolute {
 
-    /* zde dopiš absolutní pozicovaní prvku na stránce */
-
+    /* zde dopiš absolutní pozicovaní prvku na stránce 
+    smaže i původní prostor, kde se prvek nacházel
+    nastavuje se vůči oknu probhlížeče*/
+    position:absolute;
+    top:30px;
+    left:150px;
+}
+body{
+    margin:0px;
 }

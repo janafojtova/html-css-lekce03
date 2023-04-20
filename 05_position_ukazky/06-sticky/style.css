@@ -5,6 +5,7 @@
     zastavil o horní okraj stránky
     */
     position: sticky;
+    top:0;
 
 }
 

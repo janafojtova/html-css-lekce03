@@ -39,3 +39,28 @@ section {
     background-color: greenyellow;
     overflow: auto;
 }
+
+
+#nadpis{
+    background-color: pink;
+}
+.nadpis{
+    background-color: blue;
+}
+.nadpis{
+    background-color: aqua;
+}
+
+.vlevo{
+    float:left;
+    margin-right: 15px;
+}
+.vpravo{
+    float:right;
+    margin-left: 15px;
+    margin-bottom: 200px;
+}
+ h2{
+    clear: right;
+    /*zastaví obtékání */    
+ }
